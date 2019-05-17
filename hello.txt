@@ -14,3 +14,4 @@ i'm fine,think you,怎么又是you!
 啊，好热
 寸草不生
 小伙子，太年轻！！！
+ssh免密登录
